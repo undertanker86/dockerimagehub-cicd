@@ -1,0 +1,1 @@
+<img src="https://res.cloudinary.com/dptjhpkmv/image/upload/v1764414577/image_hagyrc.png" alt="ARCHITECTURE" width="500">
